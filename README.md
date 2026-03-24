@@ -1,4 +1,4 @@
-![Banner](https://github.com/Bhagyashri1124/Bhagyashri1124/blob/main/banner.png?raw=true)
+<img src="https://github.com/Bhagyashri1124/Bhagyashri1124/blob/main/banner.png?raw=true" width="100%" />
 
 # Hi, I'm Bhagyashri 👋
 
