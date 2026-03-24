@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Bhagyashri1124/Bhagyashri1124/main/banner.png" />
-</p>
+![Banner](https://raw.githubusercontent.com/Bhagyashri1124/Bhagyashri1124/main/banner.png)
 
 # Hi, I'm Bhagyashri 👋
 
