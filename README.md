@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/Bhagyashri1124/Bhagyashri1124/main/banner.png)
+![Banner](https://github.com/Bhagyashri1124/Bhagyashri1124/blob/main/banner.png?raw=true)
 
 # Hi, I'm Bhagyashri 👋
 
